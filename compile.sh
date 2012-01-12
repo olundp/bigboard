@@ -9,3 +9,4 @@ closure-library/closure/bin/calcdeps.py \
   -f "--jscomp_warning=accessControls" \
   -f "--jscomp_warning=checkTypes" \
 > main-compiled.js
+
