@@ -1,14 +1,15 @@
 body {
     padding: 0px;
     margin: 0px;
-    color: #ffffff;
-    background-color: #000000;
+    color: #000000;
+    background-color: #ffffff;
     overflow: hidden;
 }
 
 #content {
     padding: 4px;
     margin: 0px;
+    width: 335px;
 }
 
 img {
@@ -17,11 +18,11 @@ img {
 
 .page {
     position: absolute;
-    width: 100%;
+    width: 300;
     border-bottom: 2px solid #aaa;
     padding: 0px;
     margin-bottom: 5px;
-    font-size: 30pt;
+    font-size: 16pt;
     overflow: hidden;
     height: 50px;
     vertical-align: middle;
