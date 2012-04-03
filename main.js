@@ -65,10 +65,11 @@ demo.widget.Page = function(host, path, title, count, ypos) {
                                            "width": "39",
                                            "height": "25",
                                            "class": "trend"});
-  var favicon = goog.dom.createDom("img",
+
+  /*var favicon = goog.dom.createDom("img",
                                    {"src": "http://getfavicon.appspot.com/http://" + host,
                                     "width": "16",
-                                    "height": "16"});
+                                    "height": "16"}); */
 
   /**
    * Element showing the number of visitors on the page.
